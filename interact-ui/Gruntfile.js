@@ -28,9 +28,6 @@ module.exports = function(grunt) {
 
   grunt.initConfig({
 
-    // VARS
-    // ------------------------
-
     // Source paths
     rootPath: '.',
     srcPath: '<%=rootPath%>/src',
